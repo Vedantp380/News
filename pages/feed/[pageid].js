@@ -33,6 +33,5 @@ return{
         pageNumber : Number.parseInt(pageNumber)
     }
 }
-
-};
+}
 export default Feed ;
